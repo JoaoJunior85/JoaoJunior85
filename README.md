@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋! Olá, meu nome é João José Paulino Junior, jovem moçambicano com grande admiração pela tecnologia e inovação
+   👋! Olá, meu nome é João José Paulino Junior, jovem moçambicano com grande admiração pela tecnologia e inovação
 </h2>
 
 ###
