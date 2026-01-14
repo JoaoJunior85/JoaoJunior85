@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" />
   </a>
 
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/joão-paulino-júnior-269a4930a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" />
   </a>
 
