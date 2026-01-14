@@ -21,11 +21,8 @@
 
 <div align="left">
   <!-- Redes Sociais (substitua as URLs) -->
-  <a href="https://youtube.com/SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" />
-  </a>
 
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/iamdjuassss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" />
   </a>
 
